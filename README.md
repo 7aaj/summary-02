@@ -1,5 +1,5 @@
 # summary-02
-##day03
+#day03
 git is not the same as github
 
 git is the world's most popular version control system that runs locally on your machine that means no need to internet to use git
