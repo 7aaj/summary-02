@@ -18,7 +18,7 @@ git repo is a workspace.
 
 you can make any dir to a git rebo.
 
-if you want to turn a dir to a repo you type <git init> and this command initialize the repo in the top folder containing your project and its once per project.
+if you want to turn a dir to a repo you type "git init" and this command initialize the repo in the top folder containing your project and its once per project.
 
 basics of command lines like making a dir or list the items in the dir and more.
 
